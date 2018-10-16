@@ -31,7 +31,7 @@ alert(key + " is " + value);
 var key = "keys";
 var value = window.localStorage.getItem(key);
 
-alert(key + " is " + value);
+alert(key + " are " + value);
 
 var key = "wallet";
 var value = window.localStorage.getItem(key);
