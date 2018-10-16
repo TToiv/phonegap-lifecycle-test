@@ -8,7 +8,7 @@
     <name>Storage test app</name>
 
     <description>
-        A sample application that counts the occurances of lifecycle events.
+        A sample application to test how the phones storage works.
     </description>
 
     <author href="worcester.ac.uk" email="c.bowers@worc.ac.uk">
