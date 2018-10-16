@@ -3,6 +3,12 @@ var value = "blue";
 
 window.localStorage.setItem(key, value);
 
+var key = "phone";
+var value = "black";
+
+window.localStorage.setItem(key, value);
+
+
 alert(key + " is " + value);
 
 var key = "pen";
