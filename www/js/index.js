@@ -42,3 +42,9 @@ var key = "receipt";
 var value = window.localStorage.getItem(key);
 
 alert(key + " is " + value);
+
+function updateDisplay() {
+	$("#launched").text("Application launched: " + launched_count);
+	$("#resumed").text("Application paused: " + paused_count);
+	$("#paused").text("Application resumed: " + resumed_count);
+}
