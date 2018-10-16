@@ -5,7 +5,7 @@
         id        = "mob.app.dev.lifecycle"
         version   = "1.0.1">
 
-    <name>Lifecycle test app</name>
+    <name>Storage test app</name>
 
     <description>
         A sample application that counts the occurances of lifecycle events.
